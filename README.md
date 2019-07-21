@@ -1,4 +1,4 @@
-Özgür Yazılım Yaz Kampı PHP Sınıfı Ders Notları 
+#Özgür Yazılım Yaz Kampı PHP Sınıfı Ders Notları 
 # 20.07.2019 Birinci Gün Notları
 
 ## Ubuntu’da Bazı Apt Komutları
