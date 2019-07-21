@@ -8,6 +8,7 @@ Komut|Açıklama
 ```sudo apt remove paket-ismi```:|Bu komut ile istediğimiz paketi silebiliriz. 
 ```sudo apt update```:|Paket listesini günceller.
 ```sudo apt upgrade```:|Sistemde kurulu paketleri günceller.
+
 Paket yöneticileri neler yapar?(apt, yum, dnf, pkg)
 – Paket yükleme işlemleri kolaylaşır.
 – Paket kaldırma işlemleri kolaylaşır.
