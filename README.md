@@ -2,6 +2,7 @@
 # 20.07.2019 Birinci Gün Notları
 
 ## Ubuntu’da Bazı Apt Komutları
+![Kamp](https://kamp.linux.org.tr/2019/yaz/wp-content/themes/oyk-wp-theme/assets/images/oyk2019logo.png)
 Komut|Açıklama
 ---|---
 ```sudo apt install paket-ismi```:|Bu komut ile sistemimize ubuntu depolarında bulunan her paketi kurabiliriz.
